@@ -1,0 +1,742 @@
+[
+    {
+        "id": "rss_68e6af4c2f42f7.69291372",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/",
+        "title": "Microsoft 365 outage blocks access to Teams, Exchange Online",
+        "description": "​Microsoft is working to resolve an ongoing outage preventing users from accessing Microsoft 365 services, including Microsoft Teams, Exchange Online, and the admin center. [...]",
+        "image": "https://www.bleepstatic.com/content/hl-images/2025/08/04/Microsoft-365.jpg",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T18:35:01+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d8002.16154584",
+        "url": "https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html",
+        "title": "Digital Threat Modeling Under Authoritarianism",
+        "description": "Today&#8217;s world requires us to make complex and nuanced decisions about our digital security. Evaluating when to use a secure messaging app like Signal or WhatsApp, which passwords to store on you",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-09-26T11:04:48+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7fd3.52110215",
+        "url": "https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html",
+        "title": "Friday Squid Blogging: Jigging for Squid",
+        "description": "A nice story.\n",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-09-26T21:03:03+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7fb3.97936910",
+        "url": "https://www.schneier.com/blog/archives/2025/09/abusing-notions-ai-agent-for-data-theft.html",
+        "title": "Abusing Notion’s AI Agent for Data Theft",
+        "description": "Notion just released version 3.0, complete with AI agents. Because the system contains Simon Willson&#8217;s lethal trifecta, it&#8217;s vulnerable to data theft though prompt injection.\nFirst, the tr",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-09-29T11:07:38+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7f89.34819929",
+        "url": "https://www.schneier.com/blog/archives/2025/09/details-of-a-scam.html",
+        "title": "Details of a Scam",
+        "description": "Longtime Crypto-Gram readers know that I collect personal experiences of people being scammed. Here&#8217;s an almost:\nThen he added, &#8220;Here at Chase, we&#8217;ll never ask for your personal info",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-09-30T11:06:03+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7f52.61740030",
+        "url": "https://www.schneier.com/blog/archives/2025/10/use-of-generative-ai-in-scams.html",
+        "title": "Use of Generative AI in Scams",
+        "description": "New report: &#8220;Scam GPT: GenAI and the Automation of Fraud.&#8221;\nThis primer maps what we currently know about generative AI’s role in scams, the communities most at risk, and the broader econom",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-01T11:09:51+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7f21.56969972",
+        "url": "https://www.schneier.com/blog/archives/2025/10/daniel-miessler-on-the-ai-attack-defense-balance.html",
+        "title": "Daniel Miessler on the AI Attack/Defense Balance",
+        "description": "His conclusion:\nContext wins\nBasically whoever can see the most about the target, and can hold that picture in their mind the best, will be best at finding the vulnerabilities the fastest and taking a",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-02T16:19:59+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7ef3.18797280",
+        "url": "https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html",
+        "title": "Friday Squid Blogging: Squid Overfishing in the Southwest Atlantic",
+        "description": "Article. Report.\n",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-03T21:05:28+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7ec5.47847297",
+        "url": "https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html",
+        "title": "AI in the 2026 Midterm Elections",
+        "description": "We are nearly one year out from the 2026 midterm elections, and it&#8217;s far too early to predict the outcomes. But it&#8217;s a safe bet that artificial intelligence technologies will once again be",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-06T11:06:22+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7e82.48065105",
+        "url": "https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html",
+        "title": "AI-Enabled Influence Operation Against Iran",
+        "description": "Citizen Lab has uncovered a coordinated AI-enabled influence operation against the Iranian government, probably conducted by Israel.\nKey Findings\n\nA coordinated network of more than 50 inauthentic X p",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-07T11:04:23+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb7d7d93.89605824",
+        "url": "https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html",
+        "title": "Flok License Plate Surveillance",
+        "description": "The company Flok is surveilling us as we drive:\nA retired veteran named Lee Schmidt wanted to know how often Norfolk, Virginia&#8217;s 176 Flock Safety automated license-plate-reader cameras were trac",
+        "image": "",
+        "site": "www.schneier.com",
+        "added_at": "2025-10-08T16:10:58+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410987.25805831",
+        "url": "https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/",
+        "title": "DSLRoot, Proxies, and the Threat of ‘Legal Botnets’",
+        "description": "The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-08-26T14:05:12+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410962.09903579",
+        "url": "https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/",
+        "title": "Affiliates Flock to ‘Soulless’ Scam Gambling Machine",
+        "description": "Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency f",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-08-28T17:21:32+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410942.17839904",
+        "url": "https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/",
+        "title": "The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft",
+        "description": "The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many compa",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-01T21:55:04+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410919.74328230",
+        "url": "https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/",
+        "title": "GOP Cries Censorship Over Spam Filters That Work",
+        "description": "The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block si",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-06T03:23:35+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb4108f7.27188100",
+        "url": "https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/",
+        "title": "18 Popular Code Packages Hacked, Rigged to Steal Crypto",
+        "description": "At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved i",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-08T22:53:41+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb4108d3.27104378",
+        "url": "https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/",
+        "title": "Microsoft Patch Tuesday, September 2025 Edition",
+        "description": "Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known \"zero-day\" or actively exploited vulnerabilities in ",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-09T21:21:14+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb4108a6.69915137",
+        "url": "https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/",
+        "title": "Bulletproof Host Stark Industries Evades EU Sanctions",
+        "description": "In May 2025, the European Union levied financial sanctions on the owners of Stark Industries Solutions Ltd., a bulletproof hosting provider that materialized two weeks before Russia invaded Ukraine an",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-11T17:40:22+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410882.00305458",
+        "url": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
+        "title": "Self-Replicating Worm Hits 180+ Software Packages",
+        "description": "At least 187 code packages made available through the JavaScript repository NPM have been infected with a self-replicating worm that steals credentials from developers and publishes those secrets on G",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-16T14:08:02+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410854.09037982",
+        "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
+        "title": "Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms",
+        "description": "U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-09-24T11:48:31+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceb410777.97193714",
+        "url": "https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/",
+        "title": "ShinyHunters Wage Broad Corporate Extortion Spree",
+        "description": "A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen fr",
+        "image": "",
+        "site": "krebsonsecurity.com",
+        "added_at": "2025-10-07T22:45:35+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecc046.65736832",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/",
+        "title": "Microsoft kills more Microsoft Account bypasses in Windows 11",
+        "description": "Microsoft is removing more methods that help users create local Windows accounts and bypass the Microsoft account requirement when installing Windows 11. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T15:37:40+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecc025.64623979",
+        "url": "https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/",
+        "title": "Electronics giant Avnet confirms breach, says stolen data unreadable",
+        "description": "Electronic components distributor Avnet confirmed in a statement for BleepingComputer that it suffered a data breach but noted that the stolen data is unreadable without proprietary tools. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T16:19:56+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecc001.61824579",
+        "url": "https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/",
+        "title": "North Korean hackers stole over $2 billion in crypto this year",
+        "description": "North Korean hackers have stolen an estimated $2 billion worth of cryptocurrency assets in 2025, marking the largest annual total on record. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T17:02:35+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbfd4.16406504",
+        "url": "https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/",
+        "title": "Clop exploited Oracle zero-day for data theft since early August",
+        "description": "The Clop ransomware gang has been exploiting a critical Oracle E-Business Suite (EBS) zero-day bug in data theft attacks since at least early August, according to cybersecurity company CrowdStrike. [.",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T17:27:34+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbfb0.74592304",
+        "url": "https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/",
+        "title": "DraftKings warns of account breaches in credential stuffing attacks",
+        "description": "Sports betting giant DraftKings has notified an undisclosed number of customers that their accounts had been hacked in a recent wave of credential stuffing attacks. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T19:09:36+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbf94.32354455",
+        "url": "https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/",
+        "title": "Google won’t fix new ASCII smuggling attack in Gemini",
+        "description": "Google has decided not to fix a new ASCII smuggling attack in Gemini that could be used to trick the AI assistant into providing users with fake information, alter the model's behavior, and silently p",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T20:35:40+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbf78.37207333",
+        "url": "https://www.bleepingcomputer.com/news/security/docker-makes-hardened-images-catalog-affordable-for-small-businesses/",
+        "title": "Docker makes Hardened Images Catalog affordable for small businesses",
+        "description": "The Docker team has announced unlimited access to its Hardened Images catalog to make access to secure software bundles affordable for all development teams at startups and SMBs. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-07T22:09:48+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbf52.35791460",
+        "url": "https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/",
+        "title": "Salesforce refuses to pay ransom over widespread data theft attacks",
+        "description": "Salesforce has confirmed that it will not negotiate with or pay a ransom to the threat actors behind a massive wave of data theft attacks that impacted the company's customers this year. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T00:17:17+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbf37.18127528",
+        "url": "https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/",
+        "title": "Defend the Target, Not Just the Door: A Modern Plan for Google Workspace",
+        "description": "The Salesloft Drift breach shows attackers don't need to \"hack Google\" — they just need to breach a trusted integration. Learn from Material Security how to secure OAuth, detect risky behavior, and pr",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T14:02:12+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbf17.80010065",
+        "url": "https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/",
+        "title": "London police arrests suspects linked to nursery breach, child doxing",
+        "description": "The UK Metropolitan Police has arrested two suspects following an investigation into the doxing of children online after a ransomware attack on a chain of London-based nurseries. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T14:49:08+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbee5.85844064",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/",
+        "title": "Hackers exploit auth bypass in Service Finder WordPress theme",
+        "description": "Threat actors are actively exploiting a critical vulnerability in the Service Finder WordPress theme that allows them to bypass authentication and log in as administrators. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T15:57:53+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbec7.00993401",
+        "url": "https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/",
+        "title": "Crimson Collective hackers target AWS cloud instances for data theft",
+        "description": "The 'Crimson Collective' threat group has been targeting AWS (Amazon Web Services) cloud environments for the past weeks, to steal data and extort companies. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T17:33:38+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceaecbdd3.16773205",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/",
+        "title": "Microsoft enables Exchange Online auto-archiving by default",
+        "description": "Microsoft is enabling threshold-based auto-archiving by default in Exchange Online to prevent email flow issues caused by mailboxes filling up faster than expected. [...]",
+        "image": "",
+        "site": "www.bleepingcomputer.com",
+        "added_at": "2025-10-08T17:49:59+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac885e1.65657369",
+        "url": "https://thehackernews.com/2025/10/new-report-links-research-firms-bieta.html",
+        "title": "New Report Links Research Firms BIETA and CIII to China’s MSS Cyber Operations",
+        "description": "A Chinese company named the Beijing Institute of Electronics Technology and Application (BIETA) has been assessed to be likely led by the Ministry of State Security (MSS).\nThe assessment comes from ev",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF0z_po4XXG0pqRMsuMzKsQ2c_2IilXtnzE3gc1CtiYXSKUOypDZJ5Gbv8xmfGP5pGSWNuJq8L6bHB7if2p35F3azkPjwqxBUBCr3KkUFp3Tg_fc8g3wCKvRr2-yTF_-doUkyqDMZvTeQ8fRN4N1BgVY2tn-5nv1LXYuZFLDSa6EvlWQeFoyOYq2tqjyst/s1600/chinese-hackers.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-06T14:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac885c6.00098379",
+        "url": "https://thehackernews.com/2025/10/oracle-ebs-under-fire-as-cl0p-exploits.html",
+        "title": "Oracle EBS Under Fire as Cl0p Exploits CVE-2025-61882 in Real-World Attacks",
+        "description": "CrowdStrike on Monday said it's attributing the exploitation of a recently disclosed security flaw in Oracle E-Business Suite with moderate confidence to a threat actor it tracks as Graceful Spider (a",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_E80fLCTOyE9oZStmxUkAY2S7iogIJtqgN9qDKEY2NFBEvyufU3MpJ_e4Hna3sat5lynYV7L1LjCyPYnlouSfeCS06lhZf1az_bkxxXLXFIBETvrGS57yUrmiDQACc6eD9ByzSRyUgsObte06i0mm85QhnuApnq97MmG7pZgk0PAtMj_d0voohEhP2x-8/s1600/oracle-cyberattack.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T05:12:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88598.12707842",
+        "url": "https://thehackernews.com/2025/10/microsoft-links-storm-1175-to.html",
+        "title": "Microsoft Links Storm-1175 to GoAnywhere Exploit Deploying Medusa Ransomware",
+        "description": "Microsoft on Monday attributed a threat actor it tracks as Storm-1175 to the exploitation of a critical security flaw in Fortra GoAnywhere software to facilitate the deployment of Medusa ransomware.\nT",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONYKldOYGHsSAgX0eRSfnUTAjhjbHlDQ7OYBBCnYsH4jW7f-egFBxRvHiJhmtp5EPVKALsBk700DlaF5HXseSDdu0feEDRDbI1D4aibv7d6kHZuvqrCYaQ0kQNk8N9kCAmlQFCy3qFFf9gJLUgTXg-1r0o1iffqYq9bBPuO85uj-Igf8zrSF-Sq2B29A3/s1600/Medusa-Ransomware.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T08:15:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88574.13681263",
+        "url": "https://thehackernews.com/2025/10/13-year-redis-flaw-exposed-cvss-100.html",
+        "title": "13-Year-Old Redis Flaw Exposed: CVSS 10.0 Vulnerability Lets Attackers Run Code Remotely",
+        "description": "Redis has disclosed details of a maximum-severity security flaw in its in-memory database software that could result in remote code execution under certain circumstances.\nThe vulnerability, tracked as",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QtGr5F2Nz_45W-3gFImDExFplzy_SofQQ04Jt6VpQ0AwmHWJL051s7XEDrRyqgKGXwGXswsMV0YLFtlaOpIocgkFYjwK4G-YxTohEfw4VJ-UiEPs2r7CGYYiBtnVOY2X_hfOe4pMhT93BnIy_dINOZurojkpf-AKHDxfVv703OINDm6hqtbnqOQ-Brlr/s1600/redis-flaw.png",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T08:33:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88544.26642697",
+        "url": "https://thehackernews.com/2025/10/xworm-60-returns-with-35-plugins-and.html",
+        "title": "XWorm 6.0 Returns with 35+ Plugins and Enhanced Data Theft Capabilities",
+        "description": "Cybersecurity researchers have charted the evolution of XWorm malware, turning it into a versatile tool for supporting a wide range of malicious actions on compromised hosts.\n\"XWorm's modular design i",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLHtjziCIhRv5PwpT1cAfKtXq4mo_NNfMegCCb_Qk6y0vVTBsWJ95D6Z8zm1rUhSBgXc1_SXMGyUz_MrJi_lZ-imveOwHrUFysV1iGypleIV_uTpUhPO0L4MQrad1W0de5pRtB9aBqB6gb7fRqJAuUQ5tSivB5r7ABrQXhw2GJGsfK7SA-BJ2raeCItUFk/s1600/xworm.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T10:36:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88525.93966541",
+        "url": "https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html",
+        "title": "New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise",
+        "description": "For years, security leaders have treated artificial intelligence as an “emerging” technology, something to keep an eye on but not yet mission-critical. A new Enterprise AI and SaaS Data Security Repor",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAb3HN9cQzmGSvd5iH1Pb396dWpf7EA2w3eN4JupNp1IVbz4cRypiYci-dkgnswgphQx-Jty8z4Qgu_idzIkQgXCH0ePVGhqZoT11LVw_utt0TvRhjk5hqetM1MiGmgbw9hdscLxBZ3AHF8aa0uYj_YmzmBDz6-G8HDpTyxvDr4IScTY7xK5oe__YwiD0/s1600/ai-data-leak.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T11:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac884f9.51012463",
+        "url": "https://thehackernews.com/2025/10/googles-new-ai-doesnt-just-find.html",
+        "title": "Google's New AI Doesn't Just Find Vulnerabilities — It Rewrites Code to Patch Them",
+        "description": "Google's DeepMind division on Monday announced an artificial intelligence (AI)-powered agent called CodeMender that automatically detects, patches, and rewrites vulnerable code to prevent future explo",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2_yOppUpR_OzddDQoSv2TmchRraf0gplmCW9EB2E3CKL_L2W7Mn0vOUsZCw8MOuy871WmTwFbzImnFvDfRr7GK8DKeReeZqhZYVKIl5i7viICUT7Fm9HxvqVbluyxYeHxq-eTTx_kDSZcWyEx7YrrrkHjT0JjC3g-s7KCqB27YspV8URR4eeRnKwK6Vd0/s1600/google-ai.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T15:18:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac884c9.87064011",
+        "url": "https://thehackernews.com/2025/10/batshadow-group-uses-new-go-based.html",
+        "title": "BatShadow Group Uses New Go-Based 'Vampire Bot' Malware to Hunt Job Seekers",
+        "description": "A Vietnamese threat actor named BatShadow has been attributed to a new campaign that leverages social engineering tactics to deceive job seekers and digital marketing professionals to deliver a previo",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjRrqq-UN3pljzGEnoc_k8mvTwIWaW5ABEVsV-07P8aqUuVceB598GqhFiHbVj4fLUjaEV1A2-hLXaJY-CYpNS8tUyDKljg4oBDZBlaxfDLTGuWgVUKb0Hyal8Gl6ksA2jJjhcO4dod0hFK5Og2biOZw9aD0r_eWjgaMMlukktTkp6MSbaPJ60hiO6UlN/s1600/hackers.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-07T17:04:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88497.38630438",
+        "url": "https://thehackernews.com/2025/10/openai-disrupts-russian-north-korean.html",
+        "title": "OpenAI Disrupts Russian, North Korean, and Chinese Hackers Misusing ChatGPT for Cyberattacks",
+        "description": "OpenAI on Tuesday said it disrupted three activity clusters for misusing its ChatGPT artificial intelligence (AI) tool to facilitate malware development.\nThis includes a Russian‑language threat actor,",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6chC19HKnXwdVSqh15tLVk9oZnCqKy6GmdtBpDR181tsPB6mrx4hyphenhyphenfO_ef44UZkKjSlpQnCiifEtuA4W6aSh29FTn2buJ2DQf8rhKxKukFLSJQ2b3SozL4hIdBWX7KtR2ikKEZ2Cf4wMb0IwcOxkBM_RPm_aKYuqRUHclcauw4yB8JCqWdEUiTdhsSKoZ/s1600/chatgpt.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T07:16:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88471.07887055",
+        "url": "https://thehackernews.com/2025/09/automation-is-redefining-pentest.html",
+        "title": "No Time to Waste: Embedding AI to Cut Noise and Reduce Risk",
+        "description": "Artificial intelligence is reshaping cybersecurity on both sides of the battlefield. Cybercriminals are using AI-powered tools to accelerate and automate attacks at a scale defenders have never faced ",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjH27wmKHmbucQzDMPHCmT6HdEZSoRqWpBH0SVcGRZfdUktxb0C9_MVjhE6PYR4VYbp9nSIAtN4ghVo8wmz1NGcOL_4OPK8gqaJcRPhGtTEkVKlLa8i6ti3nyZM5IJSYROd5FEkf9gVD0ZQ4vSpIWuSRHV938OFfapC0PZ2c3ch9pajFWeaF323ONJkIkS/s1600/ai.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T08:57:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88458.05591727",
+        "url": "https://thehackernews.com/2025/10/severe-figma-mcp-vulnerability-lets.html",
+        "title": "Severe Figma MCP Vulnerability Lets Hackers Execute Code Remotely — Patch Now",
+        "description": "Cybersecurity researchers have disclosed details of a now-patched vulnerability in the popular figma-developer-mcp Model Context Protocol (MCP) server that could allow attackers to achieve code execut",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEeozb0vcoEHmYPAHRjF_BarXG0GIfTsono3rvP0iaLcasgFGchotwAxyhSKOcNoTsLlmzcIcawrbn4Yr7-FJCXYb0ndzLomPC9FKh3PfYx-EeV9pzpjm9nUezERDwzKGF6PbZKfv0jlozgQe6c7VUL_POXXOkkf5ed2moXnW3WccqLtxgl54KSrwgGoBZ/s1600/figma.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T10:58:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88434.07068043",
+        "url": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
+        "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
+        "description": "Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.\nThe coalition is",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7l0YTvsStRgMRAiw_OA_YpgmYvFPbaQjLuAnwMcEeeotQBHL-adsp8HhOZNf2DDJ8Ndc1URdC-47JRVjp5gWHItkY0XNkFLGnuAMkqmmbVLzMgyOCTZHHWDOpsT6W7EScav0tKAuII3U9leT1pjduP6UKFgShDYFU-vRKHBe0zTJVv6vO-1p1Xf9vAg_C/s1600/ransomware-attackers.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T12:04:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88413.99282900",
+        "url": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
+        "title": "Step Into the Password Graveyard… If You Dare (and Join the Live Session)",
+        "description": "Every year, weak passwords lead to millions in losses — and many of those breaches could have been stopped.\nAttackers don’t need advanced tools; they just need one careless login.\nFor IT teams, that m",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwsTf3ky6VtqQNr71Isd3UjCjU91fQSbDth8CN_3x4djTM6cpsvwUFIgI5NmlL1egPOlFkSqvpWKOT8d_sehIcb71Af-MbYuauCbHwbdqzI3N-u0Sli972aMWvccaR1LZqHunBp-Z_dMtum5NXcaCcefHAe7hD1eRFGz7x5s35Er8JLhIgjDkEaMYNL0/s1600/password-security.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T12:08:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac883e8.39124709",
+        "url": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
+        "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
+        "description": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.\nThe",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFEU3_4hcDo6-rpmSdC4oOu6lqXwcs3zW75gC_vy27ch8215WSh_iF7dFmhHFNicFoE8OVHQ_OBo6mkPv5k1h-zla2zh9NB9NafhAhUl09c1JdaZyFNiL2J4WEbWvBPbWzqWK9_QcF0DD02XdxRyNmxNOV3P9Fur-cdMGfmvR2wRjm02Occ8nXnmd7sP79/s1600/chinese-hacker.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T13:56:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6aceac88285.59353400",
+        "url": "https://thehackernews.com/2025/10/hackers-exploit-wordpress-themes-to.html",
+        "title": "Hackers Exploit WordPress Sites to Power Next-Gen ClickFix Phishing Attacks",
+        "description": "Cybersecurity researchers are calling attention to a nefarious campaign targeting WordPress sites to make malicious JavaScript injections that are designed to redirect users to sketchy sites.\n\"Site vi",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYtQ6iBZXeM_9-6-jbrGzyCTATFy9WOpr6EwvQtQ5CnLpPu8kgdYgU-N2QuSW6lSHPJBAu5a0L1PJdHUloy8IHJoLoU7GjAYinyJCBVEW_4I8jHryCgx5petplyS1wOc8W4utwQWqgY_dCu6JvoJ1VYpA_5LjOW-xFblJOKYSZJaWhKQOgOVbWuR5_mlB/s1600/clioci.jpg",
+        "site": "feeds.feedburner.com",
+        "added_at": "2025-10-08T16:43:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641325.66735582",
+        "url": "https://www.zataz.com/arnaques-au-logement-quand-les-faux-proprietaires-piegent-les-candidats-locataires/",
+        "title": "Arnaques au logement : quand les faux propriétaires piègent les candidats locataires",
+        "description": "Les fausses annonces de logement exploitent virements et données personnelles. Arnaques classiques et cybercriminalité se rejoignent sur les plateformes en ligne....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-01T20:46:12+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea6412f0.87698676",
+        "url": "https://www.zataz.com/boyd-gaming-victime-dune-cyberattaque-donnees-demployes-volees/",
+        "title": "Boyd Gaming victime d’une cyberattaque, données d’employés volées",
+        "description": "Boyd Gaming victime d’un vol de données d’employés. Une attaque qui confirme la vulnérabilité croissante du secteur du jeu face aux cybercriminels....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-01T21:08:33+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea6412c6.62168456",
+        "url": "https://www.zataz.com/volvo-amerique-du-nord-victime-collaterale-dune-cyberattaque/",
+        "title": "Volvo Amérique du Nord victime collatérale d’une cyberattaque",
+        "description": "Volvo Amérique du Nord touchée par une fuite de données après l’attaque ransomware du fournisseur RH Miljödata....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-01T23:21:33+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641298.12956063",
+        "url": "https://www.zataz.com/cyberattaque-au-senegal-la-dgid-visee-par-le-groupe-black-shrantac/",
+        "title": "Cyberattaque au Sénégal : la DGID visée par le groupe Black Shrantac",
+        "description": "La DGID du Sénégal victime d’une cyberattaque Black Shrantac : 1 To de données fiscales et administratives volées, enjeux critiques pour l’État et les citoyens....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-02T09:05:13+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641264.38468613",
+        "url": "https://www.zataz.com/fuite-et-raas-le-groupe-nova-expose-ses-victimes/",
+        "title": "Fuite et RaaS : le groupe Nova expose ses victimes",
+        "description": "Le groupe Nova revendique 23 victimes, vend un RaaS et publie 80 Go de données universitaires. Analyse cyber et renseignement....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-02T11:06:28+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641230.03258473",
+        "url": "https://www.zataz.com/discord-la-nouvelle-agora-numerique-des-manifestants/",
+        "title": "Discord, la nouvelle agora numérique des manifestants",
+        "description": "Discord devient l’outil stratégique des mobilisations. Au Maroc, le mouvement GenZ212 illustre la fusion entre contestation de rue et cyberspace....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-02T16:09:46+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641205.91301267",
+        "url": "https://www.zataz.com/shinyhunters-revendique-salesforce-et-vise-air-france-klm/",
+        "title": "ShinyHunters revendique Salesforce et vise Air France/KLM",
+        "description": "Exclusif ZATAZ - Extorsion revendiquée contre Salesforce : ShinyHunters menace une fuite massive et cite Air France/KLM. Analyse cyber, volumes et risques....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-04T15:38:48+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea6411d2.48994593",
+        "url": "https://www.zataz.com/eduquer-les-enfants-cest-eduquer-les-parents/",
+        "title": "Éduquer les enfants, c’est éduquer les parents",
+        "description": "ZATAZ lance un single pour le Cybermois 2025 : un hymne à la protection des enfants en ligne, entre musique et sensibilisation....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-04T17:16:55+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641192.80126772",
+        "url": "https://www.zataz.com/educating-children-means-educating-parents/",
+        "title": "Educating children means educating parents",
+        "description": "ZATAZ launches a new Cyber Month 2025 single about protecting children online through music....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-04T17:18:06+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea641054.10067305",
+        "url": "https://www.zataz.com/recap-cyber-infos-de-la-semaine-du-05-octobre-2025/",
+        "title": "Recap’ cyber infos de la semaine du 05 octobre 2025",
+        "description": "Semaine intense sur le front de la cybersécurité mondiale. Cyber attaques, actions judiciaires et ambiances \"vicieuses\" chez les pirates. Voici le récap' cybersécurité zataz du 05 octobre 2025....",
+        "image": "",
+        "site": "www.zataz.com",
+        "added_at": "2025-10-05T07:27:15+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07ba53.09905628",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0828/",
+        "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confide",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07ba35.97939693",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0824/",
+        "title": "Multiples vulnérabilités dans les produits FoxIT (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données.",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07ba19.55646092",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0823/",
+        "title": "Vulnérabilité dans Liferay (26 septembre 2025)",
+        "description": "Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer un déni de service à distance.",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b9f6.30485748",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0821/",
+        "title": "Multiples vulnérabilités dans Microsoft Edge (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confi",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b9d9.29692902",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0827/",
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confiden",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b9b7.39345061",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0820/",
+        "title": "Multiples vulnérabilités dans GitLab (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b998.35791132",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0826/",
+        "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la polit",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b962.67584984",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0822/",
+        "title": "Multiples vulnérabilités dans Tenable Security Center (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de servic",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b944.08677700",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0825/",
+        "title": "Multiples vulnérabilités dans le noyau Linux de Debian (26 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données e",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-26T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b924.57713962",
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-013/",
+        "title": "[MàJ] Multiples vulnérabilités dans Cisco ASA et FTD (25 septembre 2025)",
+        "description": "**[Mise à jour du 06 octobre 2025]** Le CERT-FR a connaissance de codes d'exploitation publics. **[Publication initiale]** Le 25 septembre 2025, Cisco a publié plusieurs avis de sécurité, un billet de",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-25T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b909.93193633",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0816/",
+        "title": "Vulnérabilité dans StormShield Network Security (25 septembre 2025)",
+        "description": "Une vulnérabilité a été découverte dans StormShield Network Security. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-25T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b8e3.53030964",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0818/",
+        "title": "Multiples vulnérabilités dans Cisco IOS et IOS XE (25 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans Cisco IOS et IOS XE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un ",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-25T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b8b9.14188607",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0819/",
+        "title": "Multiples vulnérabilités dans les produits Cisco (25 septembre 2025)",
+        "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-25T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b883.35333173",
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2025-AVI-0817/",
+        "title": "Vulnérabilité dans Microsoft OmniParser (25 septembre 2025)",
+        "description": "Une vulnérabilité a été découverte dans Microsoft OmniParser. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-09-25T00:00:00+00:00",
+        "source": "rss"
+    },
+    {
+        "id": "rss_68e6acea07b6c7.68428371",
+        "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2025-ALE-012/",
+        "title": "Vulnérabilité dans Citrix NetScaler ADC et NetScaler Gateway (26 août 2025)",
+        "description": "Le 26 août 2025, Citrix a publié un bulletin de sécurité (cf. section Documentation) concernant, entre autres, la vulnérabilité CVE-2025-7775. Celle-ci permet une exécution de code arbitraire à distan",
+        "image": "",
+        "site": "www.cert.ssi.gouv.fr",
+        "added_at": "2025-08-26T00:00:00+00:00",
+        "source": "rss"
+    }
+]
