@@ -16,7 +16,11 @@ $current = 'stage1';
       </div>
       <div class="company-info">
         <h3>Action Telecom</h3>
-        <p>Entreprise spécialisée en solutions télécoms et informatiques pour les professionnels.</p>
+        <p>Entreprise spécialisée en solutions télécoms, réseaux et informatiques pour les professionnels (PME, collectivités, secteur public). 
+        Action Telecom propose des services de téléphonie d'entreprise, infrastructure réseau, sécurité informatique et maintenance de parcs informatiques.</p>
+        <p style="margin-top: 8px; color: var(--muted); font-size: 0.95rem;">
+          📍 <strong>Siège social :</strong> Toulouse | <strong>Stage effectué à :</strong> Carcassonne (11)
+        </p>
         <a href="https://www.actiontelecom.fr" target="_blank" rel="noopener">→ Visiter le site</a>
       </div>
     </div>
