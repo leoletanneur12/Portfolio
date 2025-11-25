@@ -77,9 +77,9 @@ $devSkills = [
           <span class="group-hover:translate-x-1 transition-transform">→</span>
         </a>
         
-        <a class="group relative inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-fuchsia-600 to-pink-600 px-6 py-3.5 text-white font-medium shadow-lg shadow-fuchsia-500/30 hover:shadow-xl hover:shadow-fuchsia-500/50 hover:scale-105 transition-all duration-200" href="<?= url('pages/ia.php') ?>">
-          <span>🤖</span>
-          <span>Intelligence Artificielle</span>
+        <a class="group relative inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-fuchsia-600 to-pink-600 px-6 py-3.5 text-white font-medium shadow-lg shadow-fuchsia-500/30 hover:shadow-xl hover:shadow-fuchsia-500/50 hover:scale-105 transition-all duration-200" href="<?= url('pages/veille.php') ?>">
+          <span>🔍</span>
+          <span>Ma veille</span>
           <span class="group-hover:translate-x-1 transition-transform">→</span>
         </a>
         
