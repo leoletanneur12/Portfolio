@@ -5,21 +5,52 @@ $current = 'veille-outils';
 
 $message = '';
 
-// Gestion de la synchronisation RSS
+// Synchronisation automatique si les articles ont plus de 24h
+$articles = load_articles('ia');
+$needsSync = false;
+
+if (empty($articles)) {
+    $needsSync = true; // Aucun article, on synchronise
+} else {
+    // Vérifier la date du dernier article
+    $lastDate = 0;
+    foreach ($articles as $a) {
+        $date = strtotime($a['added_at'] ?? '1970-01-01');
+        if ($date > $lastDate) $lastDate = $date;
+    }
+    // Si le dernier article a plus de 24h, on synchronise
+    if (time() - $lastDate > 86400) {
+        $needsSync = true;
+    }
+}
+
+// Synchronisation automatique
+if ($needsSync) {
+    $config = require __DIR__ . '/../config_rss.php';
+    $rssUrls = $config['ia'] ?? [];
+    if ($rssUrls) {
+        $result = sync_rss_to_articles('ia', $rssUrls, 5);
+        if ($result['ok'] && $result['new'] > 0) {
+            $message = '<div class="alert alert-success">' . $result['new'] . ' nouveaux articles synchronisés automatiquement.</div>';
+        }
+    }
+    $articles = load_articles('ia'); // Recharger après sync
+}
+
+// Gestion de la synchronisation RSS manuelle
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['sync_rss'])) {
     $config = require __DIR__ . '/../config_rss.php';
     $rssUrls = $config['ia'] ?? [];
     if ($rssUrls) {
         $result = sync_rss_to_articles('ia', $rssUrls, 5); // 5 articles par flux = ~40 articles
         if ($result['ok']) {
-            $message = '<div class="alert alert-success">' . $result['new'] . ' nouveaux articles synchronisés depuis les flux RSS.</div>';
+            $message = '<div class="alert alert-success">' . $result['new'] . ' nouveaux articles synchronisés manuellement.</div>';
         } else {
             $message = '<div class="alert alert-error">Erreur: ' . h($result['error']) . '</div>';
         }
+        $articles = load_articles('ia'); // Recharger après sync manuelle
     }
 }
-
-$articles = load_articles('ia');
 
 // Trier les articles par date (plus récents en premier)
 usort($articles, function($a, $b) {
@@ -36,14 +67,16 @@ usort($articles, function($a, $b) {
       <div>
         <h1 class="text-3xl font-bold">🤖 Mes outils de veille</h1>
         <p class="text-zinc-300">Articles et actualités sur l'IA générative, automatiquement synchronisés depuis des flux RSS.</p>
+        <p class="text-zinc-400 text-sm mt-1">⚡ Mise à jour automatique toutes les 24h</p>
       </div>
       
-      <!-- Bouton de synchronisation (LOCAL UNIQUEMENT - À commenter en production) -->
+      <!-- Bouton de synchronisation manuelle (optionnel, commenté par défaut)
       <form method="post">
         <button type="submit" name="sync_rss" value="1" class="btn btn-primary" style="white-space: nowrap;">
           🔄 Synchroniser
         </button>
       </form>
+      -->
     </div>
     
     <?= $message ?>
@@ -63,19 +96,16 @@ usort($articles, function($a, $b) {
           </div>
         <?php endif; ?>
         <div class="card-body">
-          <h3 class="card-title bg-clip-text text-transparent bg-gradient-to-r from-violet-300 to-pink-300"><?= h($a['title']) ?></h3>
+          <h3 class="card-title bg-clip-text text-transparent bg-gradient-to-r from-violet-300 to-pink-300"><?= display_text($a['title']) ?></h3>
           <?php if (!empty($a['description'])): ?>
-            <p class="card-desc"><?= h($a['description']) ?></p>
+            <p class="card-desc"><?= display_text($a['description']) ?></p>
           <?php endif; ?>
           <div class="card-meta">
-            <div style="display: flex; flex-direction: column; gap: 4px;">
-              <span><?= h($a['site'] ?: parse_url($a['url'], PHP_URL_HOST)) ?></span>
-              <?php if (!empty($a['added_at'])): ?>
-                <span style="font-size: 0.85rem; color: var(--muted);">
-                  📅 <?= date('d/m/Y', strtotime($a['added_at'])) ?>
-                </span>
-              <?php endif; ?>
-            </div>
+            <?php if (!empty($a['added_at'])): ?>
+              <span style="font-size: 0.85rem; color: var(--muted);">
+                📅 <?= date('d/m/Y', strtotime($a['added_at'])) ?>
+              </span>
+            <?php endif; ?>
             <a class="btn btn-link" target="_blank" rel="noopener" href="<?= h($a['url']) ?>">Lire l'article →</a>
           </div>
         </div>

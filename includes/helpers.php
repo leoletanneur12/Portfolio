@@ -7,6 +7,12 @@ error_reporting(E_ALL & ~E_NOTICE);
 
 function h(string $s): string { return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
 
+function display_text(string $s): string { 
+    // Décode les entités HTML et réencode proprement avec les apostrophes normales
+    $decoded = html_entity_decode($s, ENT_QUOTES | ENT_HTML5, 'UTF-8');
+    return htmlspecialchars($decoded, ENT_QUOTES, 'UTF-8');
+}
+
 function base_path(): string {
     // Détermine le chemin de base (ex: '' à la racine d'un vhost, ou '/Portfolio' sous WAMP)
     // Calcule à partir du DOCUMENT_ROOT et du répertoire projet (parent de /includes)
@@ -384,6 +390,14 @@ function sync_rss_to_articles(string $category, array $rssUrls, int $maxPerFeed 
             $newCount++;
         }
     }
+    
+    // Trier par date décroissante et garder uniquement les 20 plus récents
+    usort($existingArticles, function($a, $b) {
+        $dateA = strtotime($a['added_at'] ?? '1970-01-01');
+        $dateB = strtotime($b['added_at'] ?? '1970-01-01');
+        return $dateB - $dateA;
+    });
+    $existingArticles = array_slice($existingArticles, 0, 20);
     
     if (!save_articles($category, $existingArticles)) {
         return ['ok' => false, 'error' => 'Impossible de sauvegarder les articles'];
