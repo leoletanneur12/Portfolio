@@ -6,12 +6,11 @@ $current = 'veille-outils';
 $message = '';
 
 // Gestion de la synchronisation RSS
-/* DÉCOMMENTER POUR ACTIVER LA SYNCHRONISATION (EN LOCAL UNIQUEMENT)
 if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['sync_rss'])) {
     $config = require __DIR__ . '/../config_rss.php';
     $rssUrls = $config['ia'] ?? [];
     if ($rssUrls) {
-        $result = sync_rss_to_articles('ia', $rssUrls, 15);
+        $result = sync_rss_to_articles('ia', $rssUrls, 5); // 5 articles par flux = ~40 articles
         if ($result['ok']) {
             $message = '<div class="alert alert-success">' . $result['new'] . ' nouveaux articles synchronisés depuis les flux RSS.</div>';
         } else {
@@ -19,18 +18,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['sync_rss'])) {
         }
     }
 }
-*/
 
 $articles = load_articles('ia');
 
-// Trier les articles : ceux avec images en premier
+// Trier les articles par date (plus récents en premier)
 usort($articles, function($a, $b) {
-    $aHasImage = !empty($a['image']);
-    $bHasImage = !empty($b['image']);
-    
-    if ($aHasImage && !$bHasImage) return -1;
-    if (!$aHasImage && $bHasImage) return 1;
-    return 0;
+    $dateA = strtotime($a['added_at'] ?? '1970-01-01');
+    $dateB = strtotime($b['added_at'] ?? '1970-01-01');
+    return $dateB - $dateA; // Décroissant (plus récent en premier)
 });
 ?>
 <?php include __DIR__ . '/../includes/header.php'; ?>
@@ -43,13 +38,12 @@ usort($articles, function($a, $b) {
         <p class="text-zinc-300">Articles et actualités sur l'IA générative, automatiquement synchronisés depuis des flux RSS.</p>
       </div>
       
-      <!-- DÉCOMMENTER POUR ACTIVER LE BOUTON DE SYNCHRONISATION (EN LOCAL UNIQUEMENT)
+      <!-- Bouton de synchronisation (LOCAL UNIQUEMENT - À commenter en production) -->
       <form method="post">
         <button type="submit" name="sync_rss" value="1" class="btn btn-primary" style="white-space: nowrap;">
           🔄 Synchroniser
         </button>
       </form>
-      -->
     </div>
     
     <?= $message ?>
@@ -74,7 +68,14 @@ usort($articles, function($a, $b) {
             <p class="card-desc"><?= h($a['description']) ?></p>
           <?php endif; ?>
           <div class="card-meta">
-            <span><?= h($a['site'] ?: parse_url($a['url'], PHP_URL_HOST)) ?></span>
+            <div style="display: flex; flex-direction: column; gap: 4px;">
+              <span><?= h($a['site'] ?: parse_url($a['url'], PHP_URL_HOST)) ?></span>
+              <?php if (!empty($a['added_at'])): ?>
+                <span style="font-size: 0.85rem; color: var(--muted);">
+                  📅 <?= date('d/m/Y', strtotime($a['added_at'])) ?>
+                </span>
+              <?php endif; ?>
+            </div>
             <a class="btn btn-link" target="_blank" rel="noopener" href="<?= h($a['url']) ?>">Lire l'article →</a>
           </div>
         </div>
