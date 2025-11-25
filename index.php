@@ -9,6 +9,10 @@ $devSkills = [
   ['name' => 'PHP', 'icon' => '🐘', 'level' => 'Avancé'],
   ['name' => 'Java', 'icon' => '☕', 'level' => 'Intermédiaire'],
   ['name' => 'SQL', 'icon' => '🗄️', 'level' => 'Intermédiaire'],
+  ['name' => 'Python', 'icon' => '🐍', 'level' => 'Intermédiaire'],
+  ['name' => 'Laravel', 'icon' => '⚙️', 'level' => 'Débutant'],
+  ['name' => 'Bootstrap', 'icon' => '🅱️', 'level' => 'Intermédiaire'],
+  ['name' => 'Android', 'icon' => '🤖', 'level' => 'Débutant'],
 ];
 ?>
 <?php include __DIR__ . '/includes/header.php'; ?>
@@ -60,7 +64,7 @@ $devSkills = [
           <div class="text-xs text-zinc-400 mt-1">Projets</div>
         </div>
         <div class="text-center p-4 rounded-xl bg-gradient-to-br from-pink-900/30 to-rose-900/20 border border-pink-500/20">
-          <div class="text-2xl font-bold text-pink-300">6</div>
+          <div class="text-2xl font-bold text-pink-300">10</div>
           <div class="text-xs text-zinc-400 mt-1">Technologies</div>
         </div>
       </div>
