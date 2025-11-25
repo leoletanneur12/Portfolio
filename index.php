@@ -82,10 +82,6 @@ $devSkills = [
           <span>Ma veille</span>
           <span class="group-hover:translate-x-1 transition-transform">→</span>
         </a>
-        
-        <a class="group relative inline-flex items-center gap-2 rounded-xl border-2 border-violet-500/30 bg-zinc-900/60 backdrop-blur-sm px-6 py-3.5 text-zinc-100 font-medium hover:bg-violet-900/20 hover:border-violet-500/50 transition-all duration-200" href="#competences">
-          <span>Mes compétences</span>
-        </a>
 
         <a class="group relative inline-flex items-center gap-2 rounded-xl border-2 border-violet-400/40 bg-zinc-900/60 backdrop-blur-sm px-6 py-3.5 text-zinc-100 font-medium hover:bg-violet-900/10 hover:border-violet-400/60 transition-all duration-200" href="<?= asset('assets/docs/CV_LETANNEUR_Leo_2024.pdf') ?>" target="_blank" rel="noopener">
           <span>📄</span>
