@@ -83,6 +83,11 @@ $devSkills = [
           <span>💡</span>
           <span>Mes compétences</span>
         </a>
+
+        <a class="group relative inline-flex items-center gap-2 rounded-xl border-2 border-violet-400/40 bg-zinc-900/60 backdrop-blur-sm px-6 py-3.5 text-zinc-100 font-medium hover:bg-violet-900/10 hover:border-violet-400/60 transition-all duration-200" href="<?= asset('assets/docs/CV_LETANNEUR_Leo.pdf') ?>" target="_blank" rel="noopener">
+          <span>📄</span>
+          <span>Mon CV</span>
+        </a>
       </div>
     </div>
   </section>
