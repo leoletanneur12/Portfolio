@@ -67,9 +67,9 @@ $devSkills = [
       
       <!-- Boutons d'action redessinés -->
       <div class="mt-10 flex flex-wrap gap-4">
-        <a class="group relative inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-violet-600 to-purple-600 px-6 py-3.5 text-white font-medium shadow-lg shadow-violet-500/30 hover:shadow-xl hover:shadow-violet-500/50 hover:scale-105 transition-all duration-200" href="<?= url('pages/cybersecurite.php') ?>">
-          <span>🔐</span>
-          <span>Cybersécurité</span>
+        <a class="group relative inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-violet-600 to-purple-600 px-6 py-3.5 text-white font-medium shadow-lg shadow-violet-500/30 hover:shadow-xl hover:shadow-violet-500/50 hover:scale-105 transition-all duration-200" href="<?= url('pages/realisations.php') ?>">
+          <span>�</span>
+          <span>Mes réalisations</span>
           <span class="group-hover:translate-x-1 transition-transform">→</span>
         </a>
         

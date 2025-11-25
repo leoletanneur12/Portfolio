@@ -42,7 +42,7 @@ $base = base_path();
         </a>
         <nav class="hidden md:flex items-center gap-1">
           <a class="px-3 py-2 rounded-full text-sm <?= ($current==='home'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('index.php') ?>">Accueil</a>
-          <a class="px-3 py-2 rounded-full text-sm <?= ($current==='cyber'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('pages/cybersecurite.php') ?>">Cybersécurité</a>
+          <a class="px-3 py-2 rounded-full text-sm <?= ($current==='realisations'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('pages/realisations.php') ?>">Mes réalisations</a>
           <a class="px-3 py-2 rounded-full text-sm <?= ($current==='ia'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('pages/ia.php') ?>">Intelligence Artificielle</a>
           <a class="px-3 py-2 rounded-full text-sm <?= ($current==='stage1'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('pages/stage1.php') ?>">Stage 1ère année</a>
           <a class="px-3 py-2 rounded-full text-sm <?= ($current==='stage2'?'bg-primary/20 text-white':'text-zinc-300 hover:text-white hover:bg-zinc-800/60') ?>" href="<?= url('pages/stage2.php') ?>">Stage 2ème année</a>
