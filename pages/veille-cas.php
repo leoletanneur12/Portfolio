@@ -9,96 +9,96 @@ $current = 'veille-cas';
   <section class="panel">
     <h1 class="text-3xl font-bold mb-4">💡 Cas concrets en Intelligence Artificielle Générative</h1>
     <p class="text-zinc-300">
-      4 événements et applications marquantes qui ont révolutionné l'IA générative.
+      4 événements et applications marquantes qui ont révolutionné l'IA générative en février-mars 2026.
     </p>
   </section>
 
   <section class="cards" style="gap: 24px;">
-    <!-- Cas 1: ChatGPT-o1 -->
+    <!-- Cas 1: Claude 3.7 Sonnet -->
     <article class="project-card" style="border-left: 4px solid #10a37f;">
       <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
         <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">ChatGPT-o1 : l'IA qui raisonne comme un humain</h3>
-          <span class="project-badge task">Septembre 2024</span>
-          <span class="project-badge dev" style="margin-left: 8px;">OpenAI</span>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Claude 3.7 Sonnet : le raisonnement hybride selon les besoins</h3>
+          <span class="project-badge task">Février 2026</span>
+          <span class="project-badge dev" style="margin-left: 8px;">Anthropic</span>
         </div>
         <div style="font-size: 32px;">🧠</div>
       </div>
       <p style="color: var(--muted); line-height: 1.6; margin-bottom: 12px;">
-        GPT-o1 introduit le raisonnement en chaîne : l'IA "réfléchit" avant de répondre, comme un humain. 
-        Performances exceptionnelles en mathématiques, physique et programmation. Cette IA a obtenu 83% à l'IMO 
-        (Olympiades Internationales de Mathématiques) contre 13% pour GPT-4. Un bond majeur vers l'AGI.
+        Modèle hybride capable de basculer entre réponse rapide et raisonnement prolongé (Extended Thinking) selon la complexité de la tâche. 
+        Meilleure performance du marché en code et en logique lors de son lancement. 
+        Une approche novatrice qui mêle vitesse classique et profondeur analytique à la demande.
       </p>
       <div class="skill-badges">
-        <span class="skill-item">Raisonnement complexe</span>
-        <span class="skill-item">Chain of Thought</span>
-        <span class="skill-item">Résolution de problèmes</span>
+        <span class="skill-item">🔀 Raisonnement hybride</span>
+        <span class="skill-item">💻 Code</span>
+        <span class="skill-item">🧩 Réflexion approfondie</span>
       </div>
     </article>
 
-    <!-- Cas 2: Sora débarque au public -->
+    <!-- Cas 2: Grok 3 -->
     <article class="project-card" style="border-left: 4px solid #ff6b6b;">
       <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
         <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Sora accessible au grand public</h3>
-          <span class="project-badge task">Décembre 2024</span>
-          <span class="project-badge dev" style="margin-left: 8px;">OpenAI</span>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Grok 3 : le supercalculateur au service du raisonnement</h3>
+          <span class="project-badge task">Février 2026</span>
+          <span class="project-badge dev" style="margin-left: 8px;">xAI / Elon Musk</span>
         </div>
-        <div style="font-size: 32px;">�</div>
+        <div style="font-size: 32px;">⚡</div>
       </div>
       <p style="color: var(--muted); line-height: 1.6; margin-bottom: 12px;">
-        Après un an d'attente, Sora devient accessible à tous. Génération de vidéos jusqu'à 20 secondes en 1080p 
-        à partir d'un simple texte. L'IA comprend la physique, crée des personnages cohérents et révolutionne 
-        la création de contenu vidéo. Les créateurs professionnels adoptent massivement l'outil.
+        Annoncé comme "le modèle le plus intelligent du monde" à son lancement, Grok 3 est entraîné sur le supercalculateur Colossus (200 000 GPU). 
+        Intégré nativement dans X (Twitter) avec un mode DeepSearch pour la recherche web en temps réel. 
+        Une démonstration de force computationnelle sans précédent.
       </p>
       <div class="skill-badges">
-        <span class="skill-item">Génération vidéo</span>
-        <span class="skill-item">Text-to-Video</span>
-        <span class="skill-item">Création de contenu</span>
+        <span class="skill-item">🧠 Raisonnement</span>
+        <span class="skill-item">🔍 Recherche web</span>
+        <span class="skill-item">⚙️ Supercalcul</span>
       </div>
     </article>
 
-    <!-- Cas 3: Google Gemini 2.0 -->
+    <!-- Cas 3: GPT-4.5 -->
+    <article class="project-card" style="border-left: 4px solid #a78bfa;">
+      <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
+        <div>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">GPT-4.5 : l'IA à intelligence émotionnelle</h3>
+          <span class="project-badge task">Février 2026</span>
+          <span class="project-badge dev" style="margin-left: 8px;">OpenAI</span>
+        </div>
+        <div style="font-size: 32px;">💬</div>
+      </div>
+      <p style="color: var(--muted); line-height: 1.6; margin-bottom: 12px;">
+        Premier modèle OpenAI axé sur l'intelligence émotionnelle, GPT-4.5 offre des conversations plus naturelles, empathiques et moins "robotiques". 
+        Très grand modèle non-raisonneur, il est optimisé pour l'interaction humaine plutôt que pour la performance sur les benchmarks. 
+        Un changement de paradigme : l'IA qui comprend le contexte émotionnel.
+      </p>
+      <div class="skill-badges">
+        <span class="skill-item">❤️ Intelligence émotionnelle</span>
+        <span class="skill-item">💬 UX conversationnelle</span>
+        <span class="skill-item">📝 Traitement du langage</span>
+      </div>
+    </article>
+
+    <!-- Cas 4: Gemini 2.5 Pro -->
     <article class="project-card" style="border-left: 4px solid #4ade80;">
       <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
         <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Gemini 2.0 : l'IA multimodale ultime</h3>
-          <span class="project-badge task">Décembre 2024</span>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Gemini 2.5 Pro : le champion du contexte long et du multimodal</h3>
+          <span class="project-badge task">Mars 2026</span>
           <span class="project-badge dev" style="margin-left: 8px;">Google DeepMind</span>
         </div>
         <div style="font-size: 32px;">🌟</div>
       </div>
       <p style="color: var(--muted); line-height: 1.6; margin-bottom: 12px;">
-        Gemini 2.0 Flash surpasse GPT-4o sur tous les benchmarks. Traitement natif de texte, images, vidéos et audio. 
-        Génération d'images intégrée, code ultra-performant, et agents IA capables d'actions autonomes. 
-        Google reprend la tête de la course à l'IA générative.
+        Nouveau leader sur les benchmarks de raisonnement et de code, avec une fenêtre de contexte massive d'1 million de tokens — soit des livres entiers ou des bases de code complètes. 
+        Capacités multimodales avancées en natif : audio, vidéo, images et texte traités simultanément. 
+        Google reprend la tête de la course à l'IA avec un modèle polyvalent et sans équivalent.
       </p>
       <div class="skill-badges">
-        <span class="skill-item">Multimodal</span>
-        <span class="skill-item">Agents IA</span>
-        <span class="skill-item">Vision + Audio</span>
-      </div>
-    </article>
-
-    <!-- Cas 4: DeepSeek-V3 -->
-    <article class="project-card" style="border-left: 4px solid #3b82f6;">
-      <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
-        <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">DeepSeek-V3 : l'IA open-source qui défie les géants</h3>
-          <span class="project-badge task">Décembre 2024</span>
-          <span class="project-badge dev" style="margin-left: 8px;">DeepSeek (Chine)</span>
-        </div>
-        <div style="font-size: 32px;">🚀</div>
-      </div>
-      <p style="color: var(--muted); line-height: 1.6; margin-bottom: 12px;">
-        DeepSeek-V3 rivalise avec GPT-4 et Claude 3.5 pour seulement 5,5 millions de dollars de coût d'entraînement. 
-        Open-source et ultra-performant en code, ce modèle chinois prouve qu'on peut créer des IA de classe mondiale 
-        avec des budgets réduits. Un tremblement de terre dans l'industrie de l'IA.
-      </p>
-      <div class="skill-badges">
-        <span class="skill-item">Open-source</span>
-        <span class="skill-item">Efficacité</span>
-        <span class="skill-item">671B paramètres</span>
+        <span class="skill-item">📖 Contexte long</span>
+        <span class="skill-item">🎥 Multimodal</span>
+        <span class="skill-item">🧠 Raisonnement</span>
       </div>
     </article>
   </section>
