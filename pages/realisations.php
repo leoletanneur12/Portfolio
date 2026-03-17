@@ -48,64 +48,73 @@ $current = 'realisations';
       </div>
     </div>
 
-    <!-- Projet 2 : Exemple - À personnaliser -->
+    <!-- Projet 2 : Mairie de Caux et Sauzens -->
     <div class="project-card">
       <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
         <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Application Web</h3>
-          <span class="project-badge task">Planifié</span>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Site Mairie de Caux et Sauzens</h3>
+          <span class="project-badge dev">En cours</span>
         </div>
-        <div style="font-size: 32px;">🌐</div>
+        <div style="font-size: 32px;">🏛️</div>
       </div>
       <p style="color: var(--muted); margin-bottom: 16px; line-height: 1.6;">
-        Projet d'application web à venir. Description du projet, objectifs et technologies utilisées.
+        Site web officiel pour la mairie de Caux et Sauzens. Développé avec <strong>Laravel</strong>, 
+        il permet la gestion du contenu municipal, des actualités et des informations pratiques pour les habitants.
+        (Non encore hébergé)
       </p>
       <div class="skill-badges">
         <div class="skill-badge-item">
-          <div class="skill-badge-icon">⚛️</div>
-          <span class="skill-badge-text">React</span>
+          <div class="skill-badge-icon">🔴</div>
+          <span class="skill-badge-text">Laravel</span>
+        </div>
+        <div class="skill-badge-item">
+          <div class="skill-badge-icon">🐘</div>
+          <span class="skill-badge-text">PHP</span>
         </div>
         <div class="skill-badge-item">
           <div class="skill-badge-icon">🗄️</div>
-          <span class="skill-badge-text">SQL</span>
+          <span class="skill-badge-text">MySQL</span>
+        </div>
+        <div class="skill-badge-item">
+          <div class="skill-badge-icon">🎨</div>
+          <span class="skill-badge-text">Blade</span>
         </div>
       </div>
     </div>
 
-    <!-- Projet 3 : Exemple - À personnaliser -->
+    <!-- Projet 3 : Photo4you -->
     <div class="project-card">
       <div style="display: flex; align-items: start; justify-content: space-between; margin-bottom: 12px;">
         <div>
-          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Script d'automatisation</h3>
+          <h3 class="text-xl font-bold" style="margin-bottom: 6px;">Photo4you</h3>
           <span class="project-badge dev">Terminé</span>
         </div>
-        <div style="font-size: 32px;">🤖</div>
+        <div style="font-size: 32px;">📸</div>
       </div>
       <p style="color: var(--muted); margin-bottom: 16px; line-height: 1.6;">
-        Script permettant d'automatiser des tâches répétitives. Développé en Python.
+        Site e-commerce de vente de photos développé avec <strong>Laravel</strong>. 
+        Les utilisateurs peuvent parcourir un catalogue de photos, les acheter et télécharger leurs acquisitions.
       </p>
       <div class="skill-badges">
         <div class="skill-badge-item">
-          <div class="skill-badge-icon">🐍</div>
-          <span class="skill-badge-text">Python</span>
+          <div class="skill-badge-icon">🔴</div>
+          <span class="skill-badge-text">Laravel</span>
+        </div>
+        <div class="skill-badge-item">
+          <div class="skill-badge-icon">🐘</div>
+          <span class="skill-badge-text">PHP</span>
+        </div>
+        <div class="skill-badge-item">
+          <div class="skill-badge-icon">🗄️</div>
+          <span class="skill-badge-text">MySQL</span>
+        </div>
+        <div class="skill-badge-item">
+          <div class="skill-badge-icon">🛒</div>
+          <span class="skill-badge-text">E-commerce</span>
         </div>
       </div>
     </div>
 
-    <!-- Ajoutez vos propres projets ici -->
-  </section>
-
-  <section class="panel" style="margin-top: 40px;">
-    <h2 class="text-2xl font-semibold mb-4">💡 Comment ajouter un projet ?</h2>
-    <p class="text-zinc-400 mb-4">
-      Pour ajouter un nouveau projet, éditez le fichier <code style="background: var(--chip); padding: 2px 8px; border-radius: 4px;">pages/realisations.php</code> 
-      et copiez/collez un bloc de projet existant.
-    </p>
-    <ul class="task-list">
-      <li>Modifiez le titre, la description et les technologies</li>
-      <li>Changez le badge de statut : <strong>En cours</strong>, <strong>Terminé</strong>, <strong>Planifié</strong></li>
-      <li>Personnalisez l'emoji représentant le projet</li>
-    </ul>
   </section>
 </main>
 
