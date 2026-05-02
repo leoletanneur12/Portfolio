@@ -117,7 +117,13 @@ $current = 'realisations';
 
     <article id="galerie-portfolio" class="project-gallery-block">
       <h3 class="text-xl font-bold" style="margin-bottom: 8px;">Portfolio BTS SIO</h3>
-      <p class="text-zinc-400" style="margin-bottom: 14px;">Le portfolio est deja consultable directement, car vous etes actuellement sur ce site.</p>
+      <p class="text-zinc-400" style="margin-bottom: 14px;">Le portfolio est deja consultable directement, avec un aperçu de la veille RSS intégrée au site.</p>
+      <div class="project-gallery-grid" style="margin-bottom: 14px;">
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/portfolio/portfolio-rss.png') ?>" alt="Portfolio BTS SIO - veille RSS" loading="lazy">
+          <figcaption>Veille RSS du portfolio</figcaption>
+        </figure>
+      </div>
       <a class="btn" href="<?= url('index.php') ?>">Voir l'accueil du portfolio</a>
     </article>
 
