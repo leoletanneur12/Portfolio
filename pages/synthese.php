@@ -34,7 +34,8 @@ $current = 'synthese';
             <td>Dev d’applications, gestion de projet, sécurité</td>
             <td>PHP, JS, MySQL, Git</td>
             <td>Code source, documentation, tests</td>
-          </tr>          <tr>
+          </tr>
+          <tr>
             <td>
               <strong>Mise en place GLPI</strong>
               <p style="margin: 6px 0 0; font-size: 13px; color: var(--muted);">Du 01/12/2025 au 19/12/2025</p>
@@ -46,7 +47,46 @@ $current = 'synthese';
                 📸 Voir les photos →
               </a>
             </td>
-          </tr>          <!-- Ajoutez vos lignes ici -->
+          </tr>
+          <tr>
+            <td>
+              <strong>Refonte du site de la mairie</strong>
+              <p style="margin: 6px 0 0; font-size: 13px; color: var(--muted);">Projet de stage de 2ème année</p>
+            </td>
+            <td>Développement web, modernisation de l’interface, intégration de contenu</td>
+            <td>PHP, Laravel, HTML, CSS</td>
+            <td>
+              <a href="#galerie-mairie" style="color: var(--accent); text-decoration: none; font-weight: 600;">
+                📸 Voir les photos →
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Photo4U</strong>
+              <p style="margin: 6px 0 0; font-size: 13px; color: var(--muted);">Plateforme web de partage et de gestion de photos</p>
+            </td>
+            <td>Conception d’interface, gestion d’authentification, organisation de galerie</td>
+            <td>PHP, Laravel, base de données</td>
+            <td>
+              <a href="#galerie-photo4u" style="color: var(--accent); text-decoration: none; font-weight: 600;">
+                📸 Voir les photos →
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Projet pompier</strong>
+              <p style="margin: 6px 0 0; font-size: 13px; color: var(--muted);">Interface de gestion de données</p>
+            </td>
+            <td>Création de formulaires, affichage de listes, ergonomie de saisie</td>
+            <td>PHP, HTML, CSS</td>
+            <td>
+              <a href="#galerie-pompier" style="color: var(--accent); text-decoration: none; font-weight: 600;">
+                📸 Voir les photos →
+              </a>
+            </td>
+          </tr>
         </tbody>
       </table>
     </div>
@@ -71,6 +111,67 @@ $current = 'synthese';
         <figure class="project-shot">
           <img src="<?= asset('assets/docs/glpi/glpi-4.png') ?>" alt="GLPI - interface de gestion" loading="lazy">
           <figcaption>Gestion du parc</figcaption>
+        </figure>
+      </div>
+    </article>
+
+    <article id="galerie-mairie" class="project-gallery-block" style="margin-top: 40px;">
+      <h2 class="text-2xl font-semibold" style="margin-bottom: 8px;">Refonte du site de la mairie</h2>
+      <p class="text-zinc-400" style="margin-bottom: 14px;">Captures du projet de refonte du site municipal réalisé pendant le stage de 2ème année.</p>
+      <div class="project-gallery-grid">
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/stage2/mairie/mairie-1.png') ?>" alt="Refonte du site de la mairie - capture 1" loading="lazy">
+          <figcaption>Capture 1</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/stage2/mairie/mairie-2.png') ?>" alt="Refonte du site de la mairie - capture 2" loading="lazy">
+          <figcaption>Capture 2</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/stage2/mairie/mairie-3.png') ?>" alt="Refonte du site de la mairie - capture 3" loading="lazy">
+          <figcaption>Capture 3</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/stage2/mairie/mairie-4.png') ?>" alt="Refonte du site de la mairie - capture 4" loading="lazy">
+          <figcaption>Capture 4</figcaption>
+        </figure>
+      </div>
+    </article>
+
+    <article id="galerie-photo4u" class="project-gallery-block" style="margin-top: 40px;">
+      <h2 class="text-2xl font-semibold" style="margin-bottom: 8px;">Photo4U</h2>
+      <p class="text-zinc-400" style="margin-bottom: 14px;">Galerie des captures du projet Photo4U.</p>
+      <div class="project-gallery-grid">
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/photo4u/photo4u-accueil.png') ?>" alt="Photo4U - accueil" loading="lazy">
+          <figcaption>Accueil</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/photo4u/photo4u-dashboard.png') ?>" alt="Photo4U - tableau de bord" loading="lazy">
+          <figcaption>Tableau de bord</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/photo4u/photo4u-galerie.png') ?>" alt="Photo4U - galerie" loading="lazy">
+          <figcaption>Galerie</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/photo4u/photo4u-inscription.png') ?>" alt="Photo4U - inscription" loading="lazy">
+          <figcaption>Inscription</figcaption>
+        </figure>
+      </div>
+    </article>
+
+    <article id="galerie-pompier" class="project-gallery-block" style="margin-top: 40px;">
+      <h2 class="text-2xl font-semibold" style="margin-bottom: 8px;">Projet pompier</h2>
+      <p class="text-zinc-400" style="margin-bottom: 14px;">Captures du module pompier avec affichage de liste et formulaire.</p>
+      <div class="project-gallery-grid">
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/pompier/pompier-liste.png') ?>" alt="Projet pompier - liste" loading="lazy">
+          <figcaption>Liste</figcaption>
+        </figure>
+        <figure class="project-shot">
+          <img src="<?= asset('assets/docs/pompier/pompier-formulaire.png') ?>" alt="Projet pompier - formulaire" loading="lazy">
+          <figcaption>Formulaire</figcaption>
         </figure>
       </div>
     </article>

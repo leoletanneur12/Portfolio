@@ -30,7 +30,7 @@ $current = 'stage2';
     <p class="muted">Développement web avec Laravel et résolution de problèmes réseau.</p>
 
     <div class="project-grid">
-      <div class="project-card">
+      <a class="project-card project-link" href="#galerie-mairie">
         <span class="project-badge dev">Refonte Web</span>
         <h3>Refonte du site de la mairie</h3>
         <p>Réécriture complète du site municipal existant avec Laravel pour une architecture moderne, maintenable et plus performante.</p>
@@ -39,7 +39,8 @@ $current = 'stage2';
           <span class="tech-tag">Laravel</span>
           <span class="tech-tag">Base de données</span>
         </div>
-      </div>
+        <p class="project-link-hint">Voir les photos du projet →</p>
+      </a>
 
       <div class="project-card">
         <span class="project-badge dev">Application</span>
@@ -63,6 +64,29 @@ $current = 'stage2';
       </div>
     </div>
   </section>
+
+  <article id="galerie-mairie" class="panel project-gallery-block">
+    <h2 class="text-2xl font-semibold" style="margin-bottom: 8px;">Refonte du site de la mairie</h2>
+    <p class="muted" style="margin-bottom: 14px;">Cliquez sur les captures pour les ouvrir en grand.</p>
+    <div class="project-gallery-grid">
+      <figure class="project-shot">
+        <img src="<?= asset('assets/docs/stage2/mairie/mairie-1.png') ?>" alt="Refonte du site de la mairie - maquette d'accueil" loading="lazy">
+        <figcaption>Maquette d’accueil</figcaption>
+      </figure>
+      <figure class="project-shot">
+        <img src="<?= asset('assets/docs/stage2/mairie/mairie-2.png') ?>" alt="Refonte du site de la mairie - page de présentation" loading="lazy">
+        <figcaption>Page de présentation</figcaption>
+      </figure>
+      <figure class="project-shot">
+        <img src="<?= asset('assets/docs/stage2/mairie/mairie-3.png') ?>" alt="Refonte du site de la mairie - interface de contenu" loading="lazy">
+        <figcaption>Interface de contenu</figcaption>
+      </figure>
+      <figure class="project-shot">
+        <img src="<?= asset('assets/docs/stage2/mairie/mairie-4.png') ?>" alt="Refonte du site de la mairie - vue détaillée" loading="lazy">
+        <figcaption>Vue détaillée</figcaption>
+      </figure>
+    </div>
+  </article>
 
   <section class="panel">
     <h2 class="text-2xl font-semibold">💼 Compétences mobilisées</h2>
