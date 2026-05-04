@@ -102,8 +102,8 @@ $current = 'veille-cas';
   <section class="panel" style="margin-top: 40px;">
     <h2 class="text-2xl font-semibold mb-4">🔮 Perspectives</h2>
     <p class="text-zinc-400">
-      Ces exemples montrent des usages simples, récents et faciles à présenter à l'oral.
-      L'IA générative sert déjà à résumer, créer des images, interroger ses documents et aider à coder.
+      Ces exemples montrent des usages simples et récents de l'IA générative.
+      Celle-ci sert déjà à résumer, créer des images, interroger ses documents et aider à coder.
       La veille technologique permet de suivre ces outils qui évoluent très vite et de comprendre leurs usages concrets.
     </p>
   </section>
